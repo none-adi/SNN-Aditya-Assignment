@@ -152,8 +152,3 @@ python train_snn.py
 ---
 
 
-
-
-## Final Reflection
-
-This project bridges neuroscience and machine learning. By replicating core biological mechanisms such as spike-based communication and temporal integration, we gain insight into how the brain processes sensory data. While SNNs are harder to train, their efficiency, sparsity, and plausibility make them a promising direction for future research and deployment, especially on neuromorphic hardware.
