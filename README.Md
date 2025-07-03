@@ -126,11 +126,7 @@ Evaluation is done after each epoch to monitor progress.
 * Temporal encoding of input information
 * Biologically plausible learning mechanisms
 
-### Challenges
 
-* Sensitive to hyperparameters (e.g., τ, thresholds, time steps)
-* Training is slower than in ANNs
-* Visualization of internal state requires more effort
 
 ---
 
